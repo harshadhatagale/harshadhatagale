@@ -88,7 +88,7 @@
 ### 📫 Let's Connect
 
 * 📩 [Email Me](mailto:harshad@example.com)
-* 💼 [LinkedIn](https://linkedin.com/in/your-link)
+* 💼 [LinkedIn](https://www.linkedin.com/in/harshad-hatagale)
 * 🌐 [Portfolio](https://harsh-tech.vercel.app/)
 
 ---

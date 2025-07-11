@@ -89,7 +89,7 @@
 
 * 📩 [Email Me](mailto:harshad@example.com)
 * 💼 [LinkedIn](https://linkedin.com/in/your-link)
-* 🌐 [Portfolio](https://yourportfolio.vercel.app/)
+* 🌐 [Portfolio](https://harsh-tech.vercel.app/)
 
 ---
 

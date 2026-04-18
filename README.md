@@ -4,9 +4,9 @@
 
 <p align="center">
   <samp>
-    <a href="https://harsh-tech.vercel.app/">🌐 Portfolio</a> •
+    <a href="https://www.buildfolio.space/harsh-tech">🌐 Portfolio</a> •
     <a href="https://www.linkedin.com/in/harshad-hatagale">💼 LinkedIn</a> •
-    <a href="mailto:harshad@example.com">📩 Email</a>
+    <a href="mailto:harshadhatagale5@gmail.com">📩 Email</a>
   </samp>
 </p>
 
